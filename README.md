@@ -6,9 +6,7 @@ Projeto - ProgBR
 
 
 # Sobre o Projeto
-Sitema para calcular a quantidade de comida e bebida necessária para um churrasco,
-
-com base nas informações seguintes:
+Sitema para calcular a quantidade de comida e bebida necessária para um churrasco, com base nas informações seguintes:
 
 Carne - 400gr por pessoa + de 6horas - 650gr
 
